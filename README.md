@@ -24,7 +24,7 @@ The Pointcloud Accumulator is a ROS package designed to process .bag files conta
 
 ```bash
 cd ~/catkin_ws/src
-git clone https://github.com/your-username/pointcloud_accumulator.git
+git clone https://github.com/pbreid/pointcloud_accumulator.git
 ```
 
 2. Build the package:
