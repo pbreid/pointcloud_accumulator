@@ -35,7 +35,9 @@ catkin_make
 ```
 
 3. Source your workspace:
+```bash
 source ~/catkin_ws/devel/setup.bash
+```
 
 ## Usage
 
